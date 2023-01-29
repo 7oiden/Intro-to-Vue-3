@@ -21,6 +21,10 @@ body {
   cursor: pointer;
 }
 
+/* .button:disabled {
+  background-color: #585858;
+} */
+
 .cart {
   margin: 25px 100px;
   float: right;
@@ -89,7 +93,7 @@ li {
 }
 
 .out-of-stock-img {
-  opacity:0.5
+  opacity:0.5;
 }
 
 p {
@@ -180,3 +184,5 @@ ul {
     width: 90%;
   }
 }
+
+
